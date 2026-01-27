@@ -14,7 +14,7 @@ const ShoppingList = ({ data, onDelete, onToggleActive }) => {
 				))
 			) : (
 				<div className='messege'>
-					<h1 className='message_title'>Tanlanganlar yo'q</h1>
+					<h1 className='message_title'>Tanlanganlar yo&apo;q</h1>
 				</div>
 			)}
 		</div>
